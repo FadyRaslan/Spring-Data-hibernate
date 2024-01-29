@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/hibernate.cfg.xml</name>
+			<type>1</type>
+			<location>C:/Users/ReMoST10/Downloads/hibernate.cfg.xml</location>
+		</link>
+	</linkedResources>
 </projectDescription>
